@@ -12,9 +12,9 @@ Atualmente, meu foco está no desenvolvimento web com **Next.js, TypeScript e No
 
 ### 📊 Por aqui
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isacepifanioo&show_icons=true&hide_border=true&theme=transparent&locale=pt-br)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent&locale=pt-br)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isacepifanioo&layout=compact&hide_border=true&theme=transparent&locale=pt-br)
 
 ---
 
