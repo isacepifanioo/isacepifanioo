@@ -33,4 +33,4 @@
 
 ---
 
-*Codando, quebrando a cabeça e aprendendo no caminho.*
+*🧩 Transformando problemas em projetos e curiosidade em código.*
